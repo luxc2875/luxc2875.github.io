@@ -3,7 +3,7 @@
     "name": "Xuanchun Lu",
     "label": "Scientist",
     "image": "",
-    "email": xl[581+4]@cam.ac.uk,
+    "email": "xl[581+4]@cam.ac.uk",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -151,19 +151,19 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Bilingual",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Algebraic geometry",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
