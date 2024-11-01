@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -25,3 +25,5 @@ I am a PhD student at the University of Cambridge, supervised by
 I am interested in the connections between
 (logarithmic) enumerative geometry and mirror symmetry.
 
+Before coming to Cambridge, I completed my undergraduates and integrated masters
+at the University of Warwick.

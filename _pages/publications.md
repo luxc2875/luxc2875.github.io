@@ -15,6 +15,9 @@ nav_order: 2
 
 <div class="publications">
 
+Nothing as of now.
+This will hopefully change soon!
+
 {% bibliography %}
 
 </div>
