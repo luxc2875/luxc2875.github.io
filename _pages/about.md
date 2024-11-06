@@ -27,3 +27,5 @@ I am interested in the connections between
 
 Before coming to Cambridge, I completed my undergraduates and integrated masters
 at the University of Warwick.
+My MMath research project was supervised by
+[Diane Maclagan](https://homepages.warwick.ac.uk/staff/D.Maclagan/).
