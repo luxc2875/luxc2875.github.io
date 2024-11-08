@@ -20,10 +20,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Cambridge, supervised by
+I am a second year PhD student at the University of Cambridge, supervised by
 [Mark Gross](https://www.dpmms.cam.ac.uk/~mg475/).
-I am interested in the connections between
+
+My interests lie in the connections between
 (logarithmic) enumerative geometry and mirror symmetry.
+I am currently thinking about
+positive genus punctured Gromov--Witten invariants and how they relate to
+higher double ramification cycles.
+More recently, I am starting to get interested in
+how scattering diagrams arise in the contexts of both
+Donaldson--Thomas theory and the Gross--Siebert programme.
 
 Before coming to Cambridge, I completed my undergraduates and integrated masters
 at the University of Warwick.
