@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am a second year PhD student at the University of Cambridge, supervised by
-[Mark Gross](https://www.dpmms.cam.ac.uk/person/mg475/).
+[Mark Gross](https://www.dpmms.cam.ac.uk/~mg475/).
 
 My interests lie in the connections between
 (logarithmic) enumerative geometry and mirror symmetry.
