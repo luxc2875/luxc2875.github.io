@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: vitae_lu.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: For full version of my CV, click on the PDF download button above. To obtain my email address, replace the square bracket and its contents with the result of the expression.
 toc:
   sidebar: left
 ---
