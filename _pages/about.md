@@ -26,11 +26,18 @@ I am a second year PhD student at the University of Cambridge, supervised by
 My interests lie in the connections between
 (logarithmic) enumerative geometry and mirror symmetry.
 I am currently thinking about
-positive genus punctured Gromov--Witten invariants and how they relate to
-higher double ramification cycles.
+the relation between
+positive genus punctured Gromov--Witten invariants and
+higher double ramification cycles,
+as well as generalisations in terms of comparison results
+between punctured logarithmic maps and stable relative maps to a rubber target.
+
+<!--
+and more recently about scattering diagrams 
 More recently, I am starting to get interested in
 how scattering diagrams arise in the contexts of both
 Donaldson--Thomas theory and the Gross--Siebert programme.
+-->
 
 Before coming to Cambridge, I completed my undergraduates and integrated masters
 at the University of Warwick.
