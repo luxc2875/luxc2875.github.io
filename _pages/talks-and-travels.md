@@ -11,10 +11,13 @@ nav_order: 2
 
 ## Upcoming talks
 
+## Past talks
+
+- (22/05/2026) *25th Anniversary of the Gross--Siebert Programme*, Cetraro
+    - Title: Enumerativity of bulk-deformed LG models for toric del Pezzo surfaces
+
 - (05/12/2024) *Junior algebraic geometry seminar*, Warwick
     - Title: Double ramification cycles in the punctured setting
-
-## Past talks
 
 - (25/10/2024) *Junior geometry seminar*, Cambridge
     - Title: Double ramification cycles in the punctured setting
@@ -25,6 +28,8 @@ nav_order: 2
 
 ## Past travels
 
+- (17/05/2026 -- 23/05/2026) *25th Anniversary of the Gross-Siebert Programme*, Cetraro
+- (08/07/2025 -- 25/07/2024) *2025 Summer Research Institute in Algebraic Geometry*, Fort Collins, CO
 - (02/09/2024 -- 06/09/2024) *Geometry and physics of mirror symmetry*, Sheffield
 - (29/07/2024 -- 02/08/2024) *Logarithmic moduli theory: curves, sheaves, and
                                 beyond*, Cambridge
